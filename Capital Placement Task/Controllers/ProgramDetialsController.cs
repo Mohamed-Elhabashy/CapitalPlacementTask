@@ -28,7 +28,7 @@ namespace Capital_Placement_Task.Controllers
             var ProgramApplications = _context.GetAll();
             var programDtos = _mapper.Map<IEnumerable<ProgramDto>>(ProgramApplications);
 
-            return programDtos.ToList(); // You may need to convert the result to a list, depending on your action return type
+            return programDtos.ToList(); 
 
         }
 

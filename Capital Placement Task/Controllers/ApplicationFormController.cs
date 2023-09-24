@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Capital_Placement_Task.DTO;
 using Capital_Placement_Task.Models;
+using Capital_Placement_Task.Repositroy.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,8 +11,9 @@ namespace Capital_Placement_Task.Controllers
     [ApiController]
     public class ApplicationFormController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
-        public ApplicationFormController(ApplicationDbContext context)
+        private readonly IBaseRepository<ApplicationForm> _context;
+
+        public ApplicationFormController(IBaseRepository<ApplicationForm> context)
         {
             _context = context;
         }
@@ -20,7 +22,7 @@ namespace Capital_Placement_Task.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<object>> GetProgramApplications()
         {
-            var ProgramApplications = _context.ApplicationForms.ToList();
+            var ProgramApplications = _context.GetAll();
 
             return DTOForm(ProgramApplications); 
 
@@ -29,25 +31,24 @@ namespace Capital_Placement_Task.Controllers
         [HttpPut("{id}")]
         public IActionResult UpdateApplicationForm(int id, ApplicationForm updatedForm)
         {
-            var existingForm = _context.ApplicationForms.Find(id);
-
-            if (existingForm == null)
+            if (id != updatedForm.Id)
             {
-                return NotFound(); // Return 404 if the form doesn't exist
+                return BadRequest();
             }
 
-            // Update the properties of the existing form
-            existingForm.Image = updatedForm.Image;
-            existingForm.Questions = updatedForm.Questions;
-            // Update other properties as needed
+            updatedForm = _context.Update(id, updatedForm);
 
-            // Save changes to the database
-            _context.SaveChanges();
+            if (updatedForm == null)
+            {
+                return NotFound();
+            }
 
-            return NoContent(); // Return 204 (No Content) on success
+
+            return NoContent();
+
         }
 
-        private ActionResult<IEnumerable<object>> DTOForm(List<ApplicationForm> ProgramApplications)
+        private ActionResult<IEnumerable<object>> DTOForm(IEnumerable<ApplicationForm> ProgramApplications)
         {
             var result = ProgramApplications.Select(form =>
             {

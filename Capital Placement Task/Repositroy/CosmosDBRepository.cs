@@ -17,7 +17,7 @@ namespace Capital_Placement_Task.Repository
 
         public async Task AddAsync(T entity)
         {
-            await _container.CreateItemAsync(entity, new PartitionKey(entity.Id.ToString()));
+            await _container.CreateItemAsync(entity, new PartitionKey());
         }
 
         public async Task<bool> DeleteAsync(string id)

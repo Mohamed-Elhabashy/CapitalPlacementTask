@@ -68,3 +68,92 @@ F:\Capital Placement\Capital Placement Task\Capital Placement Task\bin\Debug\net
 F:\Capital Placement\Capital Placement Task\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 F:\Capital Placement\Capital Placement Task\Capital Placement Task\bin\Debug\net7.0\Castle.Core.dll
 F:\Capital Placement\Capital Placement Task\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.csproj.AssemblyReference.cache
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.AssemblyInfoInputs.cache
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.AssemblyInfo.cs
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.csproj.CoreCompileInputs.cache
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.MvcApplicationPartsAssemblyInfo.cs
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.MvcApplicationPartsAssemblyInfo.cache
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\refint\Capital Placement Task.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.pdb
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\appsettings.Development.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Cosmos.CRTCompat.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\msvcp140.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\vcruntime140.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\vcruntime140_1.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\appsettings.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Capital Placement Task.exe
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Capital Placement Task.deps.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Capital Placement Task.runtimeconfig.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Capital Placement Task.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Capital Placement Task.pdb
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\AutoMapper.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Azure.Core.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Castle.Core.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Humanizer.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Client.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Core.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Direct.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Bcl.HashCode.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets\msbuild.Capital Placement Task.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Capital Placement Task.props
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Capital Placement Task.props
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Capital Placement Task.props
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets.build.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\staticwebassets.development.json
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\scopedcss\bundle\Capital Placement Task.styles.css
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.csproj.CopyComplete
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\Capital Placement Task.genruntimeconfig.cache
+F:\Tasks\CapitalPlacementTask\Capital Placement Task\obj\Debug\net7.0\ref\Capital Placement Task.dll
